@@ -1,0 +1,1 @@
+Para este ejercicio la lógica utilizada es crear un submit con su id, y asignar una función que sume 3+5 y lo muestre con la variable resultado.
