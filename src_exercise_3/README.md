@@ -1,0 +1,1 @@
+La logica utilizada para este ejercicio es la siguiente: Usar un botón tipo submit y asignarle un id, para después proporcionarle una fución que itroduce tu nombre en el campo de texto, y mediante un parrafo HTML(P), te indica la bienvenida.
