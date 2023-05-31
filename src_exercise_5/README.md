@@ -1,0 +1,1 @@
+La logica utilizada para este ejercicio es la siguiente: Asignar 3 ids a los botones, luego declarar variables con una función on click, luego realizar una condición para cuando se pulsa el botón se indique mediante un modal que número introducido es el mayor.
