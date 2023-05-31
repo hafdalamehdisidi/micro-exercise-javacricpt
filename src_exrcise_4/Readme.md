@@ -1,0 +1,1 @@
+El planteamiento utilizado para este ejercicio, es declarar variables para los id de input y button, para despues realizar la función de click y que salga un modal tipo alert con el resultado de la suma de ambos números.
